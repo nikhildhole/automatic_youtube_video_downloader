@@ -1,0 +1,10 @@
+{
+    "normal":0,
+    "slowest":140000,
+    "slower":120000,
+    "slow":100000,
+    "default":80000,
+    "fast":60000,
+    "faster":20000,
+    "fastest":5000
+}
